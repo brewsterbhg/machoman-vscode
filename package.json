@@ -1,0 +1,21 @@
+{
+    "name": "macho-man",
+    "displayName": "Macho Man",
+    "description": "A VSCode theme modeled after the greatest wrestler of all time.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Macho Man",
+                "uiTheme": "vs-dark",
+                "path": "./themes/machoman-color-theme.json"
+            }
+        ]
+    }
+}
