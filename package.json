@@ -2,7 +2,7 @@
     "name": "macho-man",
     "displayName": "Macho Man Randy Savage Theme",
     "description": "A VSCode theme modeled after the greatest wrestler of all time.",
-    "publisher": "Keith Brewster",
+    "publisher": "switchcasebreak",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.30.0"
