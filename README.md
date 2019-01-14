@@ -1,13 +1,14 @@
-# README
-## This is the README for your extension "macho-man"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Macho Man Randy Savage Theme (VS Code)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![Macho Man Face](macho-face.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Theme Preview](screenshot.png)
 
-**Enjoy!**
+### How To Install
++ Open **Extensions** in Visual Studio Code. *(View → Extensions)*
++ Search for `Macho Man Randy Savage`. I should probably be the only one.
++ **Install** it and **Reload** your editor!
++ Select it by going to Code → Preferences → Color Theme → ***Macho Man***
+
+### Thanks
+Thanks to [Wes Bos](https://twitter.com/wesbos) from who I heavily borrowed the targeted elements for this theme. Check out his [Cobalt2 VSCode Theme](https://github.com/wesbos/cobalt2-vscode).
